@@ -1,0 +1,5 @@
+firstName,lastName,birthDate,email,phone,street1,city,stateProvince,postalCode,country,
+Enrique,Abello,1990-06-12,abello@gmail.com,23456788,Apply Digital 2,Buenos Aires,CABA,1234,Argentina
+Junelly,Smith,1980-01-12,smith@gmail.com,234556989,Apply Digital 3,Bogota,Once,1234,Colombia 
+Nell,Garcia,1880-05-14,garcia@gmail.com,234556989,Apply Digital 9,Barquicimeto,Camba,3456,Venezuela
+Ingryth,Queen,1989-03-12,queen@gmail.com,23499989,Apply Digital 0,Santiago,Las Condes,9090,Chile
